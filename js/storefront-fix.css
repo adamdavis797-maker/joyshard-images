@@ -1,0 +1,5 @@
+a.themes_box_button { display: none !important; }
+.prod_info del,
+.prod_info s,
+.prod_info .old_price,
+.prod_info .market_price { display: none !important; }
